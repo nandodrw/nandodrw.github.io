@@ -8,7 +8,8 @@
 	text-align: center;
 }
 .logo h1 a{
-	color:#fff;
+	color: black;
+	text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
 	font-size: 3em;
 	font-weight: 600;
 }
@@ -24,7 +25,7 @@
 	position:relative;
 	float:left;
 	list-style:none;
-	
+
 }
 .flexy-menu li{
 	display:inline;
@@ -38,11 +39,13 @@
 .flexy-menu>li>a{
 	display: block;
 	color: #FFF;
+	/*color: black;*/
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 	padding: 12px 30px 12px 30px;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 400;
-	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+	/*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);*/
 	transition: background-color 0.5s ease-out;
 	-o-transition: background-color 0.5s ease-out;
 	-moz-transition: background-color 0.5s ease-out;
@@ -54,7 +57,9 @@
 }
 .flexy-menu>li>a:hover
 {
-	color:#55C1E5;
+	/*color:#55C1E5;*/
+	border-bottom: 3px solid white;
+	border-top: 3px solid white;
 }
 
 .flexy-menu li.right{
@@ -229,7 +234,7 @@
 	.flexy-menu ul>li .arrow{
 		display:none;
 	}
-	
+
 }
 @media only screen and (max-width: 640px) {
 
