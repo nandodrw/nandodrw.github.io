@@ -40,7 +40,7 @@ body {
 /*****/
 .content
 {
-	background: url(../images/slider.jpg) no-repeat;
+	background: url(../images/manhattan.jpg) no-repeat;
 	background-size: 100%;
 	background-size:cover;
 }
@@ -329,7 +329,7 @@ textarea
 {
 	height: 150px;
 	resize: none;
-	
+
 }
 .right-form{
 	float:right;
@@ -776,7 +776,7 @@ textarea
 	.timeline-label p ,.group_1_text p,.para,.timeline .experience-info p,.right-form p{
 	font-size: 0.9em;
 	}
-	
+
 	.header {
 	padding: 0.5em 0em;
 	}
@@ -811,7 +811,7 @@ textarea
 	padding: 0.4em 1.5em;
 	font-size: 0.9em;
 	}
-	
+
 	.send {
 	text-align: center;
 	}
@@ -899,5 +899,5 @@ textarea
 	ul.slimmenu li .sub-collapser {
 	top: 5px;
 	}
-	
+
 }
