@@ -148,7 +148,7 @@ padding: 4em 0em;
 .timeline-label h4 {
     margin-top: 0;
     font-size: 1.9em;
-    color:#55C1E5;
+    color:rgba(255, 10, 10, 0.7);
     padding:1em 0em;
     font-weight: 600;
 }

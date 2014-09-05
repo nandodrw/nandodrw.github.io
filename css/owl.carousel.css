@@ -192,6 +192,7 @@
 .group_2_img1 img
 {
 	width:100%;
+	border: 1px solid #edaa15;
 }
 .group_2_items
 {
@@ -249,10 +250,10 @@
 	text-align: center;
 }
 .brows_button_3 a,.brows_button_4 a{
-	border:2px solid #55C1E5;
+	border:2px solid #edaa15;
 	font-size: 0.9em;
 	padding: 0.7em 1.5em;
-	color: #5EC7E5;
+	color: #edaa15;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-o-border-radius: 5px;
@@ -265,7 +266,7 @@
 }
 .brows_button_3 a:hover,.brows_button_4 a:hover
 {
-	background: #55C1E5;
+	background: #edaa15;
 	color:#fff;
 }
 /*****/
