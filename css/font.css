@@ -1,0 +1,14 @@
+@font-face {
+	font-family: deco_font;
+	src: url('font/Deco.ttf');
+}
+
+@font-face {
+	font-family: empire_deco_font;
+	src: url('../font/Empire_Deco.ttf');
+}
+
+@font-face {
+	font-family: paulistana_deco;
+	src: url('../font/paulistana_deco.ttf');
+}

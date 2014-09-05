@@ -51,9 +51,10 @@
 }
 .da-slide h2{
 	color:#FFFFFF;
+	font-family: paulistana_deco !important;
 	/*color: black;*/
 	/*text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;*/
-	width: 77%;
+	width: 82%;
 	top:0px;
 	white-space: nowrap;
 	z-index: 10;
@@ -65,6 +66,7 @@
 	text-transform: uppercase;
 }
 .da-slide p{
+	font-family:  deco_font !important;
 	top:110px;
 	color: #FFFFFF;
 	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
@@ -76,7 +78,7 @@
 	line-height: 29px;
 	text-align: center;
 	margin: 0 auto;
-	width: 77%;
+	width: 82%;
 
 }
 .da-img{
@@ -99,7 +101,7 @@
 	font-weight:600;
 	text-decoration:none;
 	text-align:center;
-	margin-left: 34%;
+	margin-left: 33%;
 	margin-top: 1em;
 	padding:12px 30px;
 	border:2px solid #fff;
@@ -124,8 +126,9 @@
 	display:block;
 }
  .da-link:hover{
- 	background: #fff;
- 	color:#55C1E5;
+ 	background: #edaa15;
+ 	border: 2px solid #edaa15;
+ 	color:#fff;
  }
 .da-arrows{
 	-moz-user-select: none;

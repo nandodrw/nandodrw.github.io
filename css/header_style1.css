@@ -8,10 +8,11 @@
 	text-align: center;
 }
 .logo h1 a{
+	font-family:  empire_deco_font !important;
 	color: black;
 	text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
-	font-size: 3em;
-	font-weight: 600;
+	font-size: 2.5em;
+	font-weight: 400;
 }
 /* start h_menu */
 .h_menu{
@@ -37,6 +38,8 @@
 	position:relative;
 }
 .flexy-menu>li>a{
+	font-family:  deco_font !important;
+
 	display: block;
 	color: #FFF;
 	/*color: black;*/

@@ -299,7 +299,7 @@ margin-bottom: 1.34em;
 	background: #fff;
 }
 .left-form li:hover{
-	border:2px solid #8DD4FF;
+	border:2px solid #edaa15;
 	color: #343434;
 }
 .left-form li:focus{
@@ -389,7 +389,7 @@ textarea
 	background: #EB4334;
 }
 .right-form h4{
-	color:#CDCDCD;
+	color:rgba(255, 10, 10, 0.7);
 	font-size: 1em;
 	font-weight: 600;
 }
