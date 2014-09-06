@@ -399,6 +399,19 @@ textarea
 	line-height: 1.7em;
 	padding: 1em 0em;
 }
+
+.shoot-mail{
+	color: #edaa15;
+	text-decoration: underline;
+}
+
+.shoot-mail:hover{
+	/*color:#a6750c;*/
+	/*text-decoration: none;*/
+	font-size: 110%;
+}
+
+
 /* start soc_icons */
 
 .soc_icons h2{
